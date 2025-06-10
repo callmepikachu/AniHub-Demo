@@ -1,0 +1,19 @@
+2025-06-10 23:52:56,540 - text_to_video - INFO - 开始处理文本文件: test/input.txt
+2025-06-10 23:52:56,542 - text_to_video - INFO - 步骤1: 分析文本，提取场景
+2025-06-10 23:52:56,542 - text_to_video - WARNING - 未配置DeepSeek API密钥，使用规则提取场景
+2025-06-10 23:52:56,544 - text_to_video - INFO - 提取到 4 个场景
+2025-06-10 23:52:56,546 - text_to_video - INFO - 步骤2: 生成视频
+2025-06-10 23:52:56,547 - text_to_video - INFO - 开始生成场景 scene_001 的视频
+2025-06-10 23:52:56,547 - text_to_video - WARNING - 未配置Kling API密钥，使用模拟视频生成
+2025-06-10 23:52:56,574 - text_to_video - INFO - 生成模拟视频: 1839年，林则徐在虎门海滩销毁鸦片
+2025-06-10 23:52:57,580 - text_to_video - INFO - 开始生成场景 scene_002 的视频
+2025-06-10 23:52:57,580 - text_to_video - WARNING - 未配置Kling API密钥，使用模拟视频生成
+2025-06-10 23:52:57,580 - text_to_video - INFO - 生成模拟视频: 首先，人们将装满鸦片的木桶搬运至销烟池旁
+2025-06-10 23:52:58,585 - text_to_video - INFO - 开始生成场景 scene_003 的视频
+2025-06-10 23:52:58,585 - text_to_video - WARNING - 未配置Kling API密钥，使用模拟视频生成
+2025-06-10 23:52:58,585 - text_to_video - INFO - 生成模拟视频: 接着，石灰被倒入池中，与鸦片发生化学反应，产生大量浓烟
+2025-06-10 23:52:59,596 - text_to_video - INFO - 开始生成场景 scene_004 的视频
+2025-06-10 23:52:59,596 - text_to_video - WARNING - 未配置Kling API密钥，使用模拟视频生成
+2025-06-10 23:52:59,596 - text_to_video - INFO - 生成模拟视频: 最终，鸦片被彻底销毁
+2025-06-10 23:53:00,605 - text_to_video - INFO - 步骤3: 插入视频到原文
+2025-06-10 23:53:00,605 - text_to_video - INFO - 处理完成！结果保存在: output\result.html
